@@ -321,10 +321,10 @@ style="
 style="
   position: absolute;
   left : 60%;
-  top : 0%;
+  top : 5%;
 ">
 <div style="transform: scale(0.5);">
-<span style="font-size: 48px;">Novels Combines Different Cultures</span>
+<span style="font-size: 48px;">Novels</span>
 <img class="rounded-xl" src="/images/ten_days.jpg"></img>
 </div>
 </div>
@@ -489,10 +489,10 @@ class: bg-[#0a0a0a] text-white
 
 <div v-click="1"
   style="
-    font-size: 28px;
+    font-size: 26px;
   "
 >
-&emsp;&emsp;These shifts have successfully breathed new life into traditions for a global audience. By integrating modern techniques and elements, our heritage has become significantly more engaging and accessible to the public.
+&emsp;&emsp;These shifts have successfully breathed new life into traditions for a global audience. By integrating modern techniques and elements, our heritage has become significantly more engaging and accessible.
 </div>
 
 <div v-click="2">
@@ -503,7 +503,7 @@ class: bg-[#0a0a0a] text-white
 
 <div v-click="2"
   style="
-    font-size: 28px;
+    font-size: 27px;
   "
 >
 &emsp;&emsp;Records capture and freeze time, crystallizing significant cultural milestones that might otherwise fade away. By transforming ephemeral traditions into "Digital Ambers," we safeguard our heritage against modernization, ensuring future generations can still resonate with their ancestral roots in this changing world.
