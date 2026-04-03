@@ -1,5 +1,6 @@
 ---
 layout: center
+class: bg-white text-black
 ---
 # Topic: Chinese Culture or Globalization(Local customs,The issue of globalization...)
 
@@ -645,21 +646,31 @@ style="
   background-color: #ffffff;
   font-size: 24px;
   left: 50%;
-  top : 15%;
+  top : 9.7%;
   width: 48%;
+  padding: 1.5rem;
   border: 6px solid orange;
   border-radius: 1rem;
 "
 >
-<span>Some modern web novels echo an ancient critique as CaoXueQin said:<br/>
-</span>
-<span class='italic'>
-至于才子佳人等书，则又开口‘文君’，满篇‘子建’，千部一腔，千人一面……故假捏出男女二人名姓。
-又必旁添一小人拨乱其间，如戏中的小丑一般。
-</span>
-<p>
-<strong>Disclaimer:</strong> The image on the left is for illustrative purposes only to show the current market landscape. This critique targets <strong>generic narrative patterns</strong> rather than the specific quality or creativity of the individual works listed.</p>
+  <span class="font-bold text-orange-600 text-2xl">Echoes of an Ancient Critique</span>
+  <div class="mt-4 leading-relaxed">
+    <p>
+      Modern web novels often fall into the same trap observed by <strong>Cao Xueqin</strong> centuries ago: 
+    </p>
+    <p class="italic text-gray-700 mt-2">
+      "Thousands of stories sharing one tone; thousands of characters sharing one face."
+    </p>
+    <p class="mt-4 text-lg">
+      This <strong>"cloned narrative"</strong>—repetitive tropes and shallow archetypes—remains a persistent challenge in our digital cultural shift.
+    </p>
+  </div>
+  
+  <p class="mt-6 text-sm text-gray-500 border-t pt-2">
+    <strong>Note:</strong> This critique targets generic industry patterns, not the specific quality of individual works. 
+  </p>
 </div>
+
 </div>
 
 ---
@@ -772,3 +783,11 @@ Slide Design & Script: Rock <br/>
 Presenter: WZR <br/>
 Narrative: ZSD <br/>
 Technical Support: CGT HQF 
+
+
+---
+class: bg-[#0a0a0a] text-white
+---
+# <span class='text-cyan'>Appendix</span>
+## <span class='text-gray'>Original Text From <italic>Dream of the Red Chamber</italic></span>
+&emsp;&emsp;至若佳人才子等书，则又千部共出一套，且其中终不能不涉于淫滥，以致满纸潘安、子建、西子、文君、不过作者要写出自己的那两首情诗艳赋来，故假拟出男女二人名姓，又必旁出一小人其间拨乱，亦如剧中之小丑然。
