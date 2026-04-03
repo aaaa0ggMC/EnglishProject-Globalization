@@ -6,6 +6,18 @@ class: bg-white text-black
 
 Presented by Group1
 
+<div class="absolute bottom-10 left-0 right-0 text-center">
+  <a 
+    href="https://aaaa0ggmc.github.io/EnglishProject-Globalization" 
+    target="_blank" 
+    style="text-decoration: none; color: inherit; opacity: 0.6; font-size: 14px;"
+    onmouseover="this.style.opacity='1'"
+    onmouseout="this.style.opacity='0.6'"
+  >
+    aaaa0ggmc.github.io/EnglishProject-Globalization
+  </a>
+</div>
+
 ---
 layout: center
 transition: fade
