@@ -28,7 +28,7 @@ class: bg-black text-white
   text="In the inevitable process of" 
   :autoNext="true" 
   :thisPage="2" 
-  waitAfter="0.2s"
+  waitAfter="0.3s"
   :showCursor="false"  
   fontSize="48px"
   duration="3s"
@@ -800,6 +800,7 @@ Technical Support: CGT HQF
 ---
 class: bg-[#0a0a0a] text-white
 ---
+
 # <span class='text-cyan'>Appendix</span>
 ## <span class='text-gray'>Original Text From <italic>Dream of the Red Chamber</italic></span>
 &emsp;&emsp;至若佳人才子等书，则又千部共出一套，且其中终不能不涉于淫滥，以致满纸潘安、子建、西子、文君、不过作者要写出自己的那两首情诗艳赋来，故假拟出男女二人名姓，又必旁出一小人其间拨乱，亦如剧中之小丑然。
