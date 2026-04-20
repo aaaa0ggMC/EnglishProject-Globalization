@@ -26,7 +26,7 @@ class: bg-black text-white
 
 <TypingText 
   text="In the inevitable process of" 
-  :autoNext="true" 
+  :autoNext="false" 
   :thisPage="2" 
   waitAfter="0.3s"
   :showCursor="false"  
@@ -43,7 +43,7 @@ class: text-white p-0
   :thisPage="3"
   :interval="100"
   :duration="4"
-  :autoNext="true"
+  :autoNext="false"
   :imageConfigs="[
     { scale: 1.8, x: -0.5, y: -10 },
     { scale: 1.9, x: 6, y: 6 },
